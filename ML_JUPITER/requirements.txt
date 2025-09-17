@@ -1,0 +1,21 @@
+# 관련된 모듈 리스트
+# ML & Stats
+scikit-learn
+xgboost
+lightgbm
+catboost
+statsmodels
+category_encoders
+imbalanced-learn
+
+# Hyperparameter Tuning
+optuna
+scikit-optimize
+
+# Model Explainability
+shap
+lime
+
+# Reporting (테이블 이미지 저장)
+dataframe-image
+
