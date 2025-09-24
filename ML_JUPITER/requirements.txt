@@ -19,3 +19,10 @@ lime
 # Reporting (테이블 이미지 저장)
 dataframe-image
 
+# EDA & Visualization
+missingno
+ydata-profiling
+sweetviz
+matplotlib
+seaborn
+plotly
