@@ -26,3 +26,15 @@ sweetviz
 matplotlib
 seaborn
 plotly
+
+
+# --------------------
+# 비지도 -  Association Rule Learning (연관 규칙 분석)
+# --------------------
+mlxtend 
+
+
+# --------------------
+# 모델저장
+# --------------------
+joblib
