@@ -1,2 +1,0 @@
-# STREAM_LIT
-스트림릿_ML_DL
